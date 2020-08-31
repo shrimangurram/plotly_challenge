@@ -8,3 +8,5 @@ a. Filter by their id to visualize the following information:
    1. Bar chart of the top ten bacterial species in their navel.
    2. Bubble chart that shows the relative frequency of all the bacterial species found in the volunteer's navel
    3. Their demographic information
+   
+  Dashboard: https://shrimangurram.github.io/plotly_challenge/
